@@ -1,0 +1,1 @@
+# Shopify-variant-swatches-on-collection-page
